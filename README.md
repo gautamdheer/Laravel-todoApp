@@ -1,8 +1,12 @@
 ## Install Composer to generate vendor folder
 
-```composer install
+```
+composer install
+
 ```
 
 ## use sqlite for database
-```DB_CONNECTION=sqlite
+```
+DB_CONNECTION=sqlite
+
 ```
